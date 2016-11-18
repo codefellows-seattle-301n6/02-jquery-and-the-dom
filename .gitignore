@@ -51,6 +51,14 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+### Vendor Files ###
+icons.css
+icomoon.eot
+icomoon.svg
+icomoon.ttf
+icomoon.woff
+normalize.css
+
 ### Vim ###
 # swap
 [._]*.s[a-w][a-z]
